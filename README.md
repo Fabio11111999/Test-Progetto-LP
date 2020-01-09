@@ -1,2 +1,1 @@
-# Test-Progetto-LP
-A list of tests for nfa simulation project 
+***A list of tests for nfa simulation project***
